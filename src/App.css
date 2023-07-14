@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+/* @font-face {
+  font-family: 'YourFontFile':
+  src: local('YourFontFile'),
+       url('./fonts/YourFontFamily.ttf') format('ttf');
+} */
 
 .App-logo {
   height: 40vmin;
